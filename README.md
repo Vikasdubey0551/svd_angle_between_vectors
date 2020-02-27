@@ -1,0 +1,2 @@
+# svd_angle_between_vectors
+The following script fits a vector along a chosen data sing singular value decomposition (SVD) and extracts the eigenvector. This process mimics the process of 'fitting' a vector to 3D data. This is particularly useful for measuring angle between two alpha helicies in a simulation trajectory. Alternatively, it can also used to angle fluctuations with respect to a particular axis.
