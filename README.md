@@ -16,4 +16,4 @@ range of atoms : e.g. selecting 2102 to 2485 residues => `'protein and bynum 210
 * **Choosing the files** : 
 choose the names of the files `mda.Universe('step7_production.gro','step7_production.xtc')`. Uncommment the plotting it is necessary.
 
-* Running te
+* **Running the script** : `Python angle_estimator.py`
